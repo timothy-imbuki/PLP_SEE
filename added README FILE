@@ -1,0 +1,33 @@
+# Simple Calculator
+
+A basic calculator application that performs arithmetic operations.
+
+## Features
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Clear function (C)
+- Equals (=) to compute results
+
+## How to Use
+1. Clone this repository
+2. Open `index.html` in your web browser
+3. Use your mouse or keyboard to input numbers and operations
+4. Press `=` or hit Enter to calculate the result
+5. Press `C` to clear the current calculation
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Future Improvements
+- Add support for decimal numbers
+- Implement scientific calculator functions
+- Add keyboard input support
+- Improve UI/UX design
+
+## License
+This project is open source and available under the [MIT License](LICENSE).
+git clone https://github.com/timothy-imbuki/PLP_SEE/new/main?filename=added a README FILE.
